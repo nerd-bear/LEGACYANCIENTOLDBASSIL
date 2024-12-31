@@ -1,11 +1,12 @@
-# ⚠ WARNING ⚠
+# ⚠ WARNING! ⚠
+**This project is no longer maintained and was not developed to the end. This project may be continued in the future. However, it is more likely that the project will merge as part of another project with https://github.com/nerd-bear/SQS**
 
 
 # Bassil Language Project
 
 ## Overview
 
-Bassil is a custom programming language project that includes a lexical analyzer and various utility functions. This project is designed to tokenize and analyze Bassil language code, providing a foundation for further language processing steps.
+Bassil is a custom programming language project with a lexical analyzer and various utility functions. This project is designed to tokenize and analyze Bassil language code, providing a foundation for further language processing steps.
 
 ## Table of Contents
 
