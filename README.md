@@ -1,5 +1,5 @@
 # ⚠ WARNING! ⚠
-**This project is no longer maintained and was not developed to the end. -This project may be continued in the future. However, it is more likely that the project will merge as part of another project with https://github.com/nerd-bear/SQS- This project has been restared, to see the project visit https://github.com/nerd-bear/Bassil.**
+**This project is no longer maintained and was not developed to the end. ~~This project may be continued in the future. However, it is more likely that the project will merge as part of another project with https://github.com/nerd-bear/SQS~~ This project has been restared, to see the project visit https://github.com/nerd-bear/Bassil.**
 
 
 # Bassil Language Project
